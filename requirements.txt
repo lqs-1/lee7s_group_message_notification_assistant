@@ -1,0 +1,10 @@
+python-telegram-bot==13.9
+python-telegram-bot[socks]==20.1
+pymysql
+sqlalchemy
+emoji
+itsdangerous
+pyinstaller your_script.py
+pyinstaller
+
+
